@@ -1,0 +1,5 @@
+﻿E:\VS 2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(944,5): warning MSB8027: 名为 lv_font_unscii_8.c 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 lvgl\src\lv_font\lv_font_unscii_8.c, Res\font\lv_font_unscii_8.c。
+  main.c
+d:\approach\lvgl7.8.1_pc_simulator\lv_sim_visual_studio_sdl\visual_studio_2017_sdl\res\resdeclare.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+x64\Debug\lv_font_unscii_8.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  visual_studio_2017_sdl.vcxproj -> D:\Approach\LVGL7.8.1_PC_Simulator\lv_sim_visual_studio_sdl\x64\Debug\lv_sim_visual_studio_sdl.exe
